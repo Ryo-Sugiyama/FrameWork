@@ -1,0 +1,6 @@
+ウインドウクラスの登録に成功しました。
+DirectXDeviceの初期化に成功しました。
+DirectX3DDeviceの初期化に成功しました。
+3DDeviceObjectの初期化に成功しました。
+SpriteObjectの作成に成功しました。
+フォントの作成に成功しました。
